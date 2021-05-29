@@ -66,6 +66,17 @@ In addition, you may also use this section to discuss plans for additional featu
 # Large
 <img src="wireframes/large.png">
 
+## Colour Pallate
+
+Blue was chosen as the main colour for the site.  Research had shown that this is a colour associated with reliability, productivity, trust and order, which are the principles the college wish to promote. 
+
+Coolors.co was then used to find a complementray colour platette, with the following decided upon:
+
+<img src="design-images/colours-palette.png">
+
+
+
+## Fonts
 
 
 ### Features Left to Implement
@@ -107,6 +118,15 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 
 ## Credits 
+
+https://neilpatel.com/blog/psychology-of-color-and-conversions/
+
+https://smallbiztrends.com/2014/06/psychology-of-colors.html
+
+https://coolors.co/
+
+https://typespiration.com/design/the-buried-city/
+
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
