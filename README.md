@@ -69,13 +69,13 @@ In addition, you may also use this section to discuss plans for additional featu
 ## Wireframes
 
 # Small
-<img src="../wireframes/small.png">
+<img src="wireframes/small.png">
 
 # Medium
-<img src="../wireframes/medium.png">
+<img src="wireframes/medium.png">
 
 # Large
-<img src="../wireframes/large.png">
+<img src="wireframes/large.png">
 
 
 
