@@ -64,6 +64,21 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
+### Design
+
+## Wireframes
+
+# Small
+<img src="../wireframes/small.png">
+
+# Medium
+<img src="../wireframes/medium.png">
+
+# Large
+<img src="../wireframes/large.png">
+
+
+
 ### Features Left to Implement
 
 - Another feature idea
