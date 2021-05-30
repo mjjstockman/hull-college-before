@@ -1,3 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Open+Sans&display=swap');
+
+/* browser resets */
+* {
+   padding: 0;
+   margin: 0;
+   border: 0; 
+}
 body {
-    color: red;
+    font-family: 'Crimson Text', sans-serif;
+    color: #252627;
+}
+
+/* headings and logo */
+
+h1 {
+    font-family: 'Open Sans', serif;
+    color: #252627;
+    letter-spacing: 0.1em;
+}
+
+#logo {
+    floa
 }

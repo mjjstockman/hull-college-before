@@ -77,6 +77,12 @@ Coolors.co was then used to find a complementray colour platette, with the follo
 
 
 ## Fonts
+Typespiration.com was used to find complimenting Google Fonts pairings, with the following decided upon:
+
+Headings: Open Sans, with a fallback of Sans-serif. 
+Body: Crimson, with a fallback of TextSerif.
+
+ADD IMG?
 
 
 ### Features Left to Implement
