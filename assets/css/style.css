@@ -13,12 +13,50 @@ body {
 
 /* headings and logo */
 
-h1 {
+h1,
+h2 {
     font-family: 'Open Sans', serif;
     color: #252627;
     letter-spacing: 0.1em;
 }
 
 #logo {
-    floa
+    float: left;
+    font-size: 300%;
+    letter-spacing: 0.1em;
 }
+
+#logo,
+#menu {
+    /* line-height: 100px; */
+    line-height: 75px;
+}
+
+/* nav */
+
+#menu {
+    float: right;
+    list-style: none;
+    font-size: 200%;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    letter-spacing: 0.1em;
+}
+
+#menu li + li {
+    margin-left: 2em;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover,
+.active {
+    border-bottom: 1px solid #252627;
+}
+
