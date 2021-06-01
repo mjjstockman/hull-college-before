@@ -66,3 +66,11 @@ h2 {
     border-bottom: 1px solid #252627;
 }
 
+/* about section */
+
+.about-split {
+    width: 50%;
+    float: left;
+}
+
+
