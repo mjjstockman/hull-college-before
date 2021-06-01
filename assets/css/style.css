@@ -68,6 +68,16 @@ h2 {
 
 /* about section */
 
+#course-section {
+    text-align: center;  
+}
+
+#course-section div {
+    display: inline-block;
+    background-color: red;
+    width: 20%;
+}
+
 .about-split {
     width: 50%;
     float: left;
