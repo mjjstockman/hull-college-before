@@ -39,7 +39,8 @@
 
     <section id="about-section">
         <h1>About</h1>
-        <p>GENERAL COLLEGE INFO Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla cumque dignissimos veritatis fuga rerum
+        <p>GENERAL COLLEGE INFO Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla cumque dignissimos
+            veritatis fuga rerum
             tempore quod, sit id sapiente porro?
         </p>
 
@@ -52,7 +53,8 @@
         <div class="about-split">
             <h2>Student Satisfaction</h2>
             ICON/IMAGE
-            <p>INFO ABOUT STUDENT SATISFACTION Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, odio.</p>
+            <p>INFO ABOUT STUDENT SATISFACTION Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, odio.
+            </p>
         </div>
     </section>
 
@@ -104,8 +106,24 @@
         </div>
     </section>
 
-    <section>
-        CONTACT FORM
+    <section class="form-section">
+        <form method="POST" action="#">
+            <label for="fname">First Name</label>
+            <input id="fname" name="first_name" type="text" placeholder="First name" required>
+
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last_name" type="text" placeholder="Last name" required>
+
+            <label for="email">Email Address</label>
+            <input id="email" name="email_address" type="email" placeholder="Email address" required>
+
+            <div>
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="8" cols="50" placeholder="TYPE HERE" required></textarea>
+            </div>
+
+            <input type="submit">
+        </form>
     </section>
 
     <section>

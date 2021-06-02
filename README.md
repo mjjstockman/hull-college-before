@@ -84,6 +84,17 @@ Body: Crimson, with a fallback of TextSerif.
 
 ADD IMG?
 
+### Issues and Bugs
+TEXTAREA PLACEHOLDER TEXT NOT SHOWING
+research showed opening and closing element must be on same line
+add img?
+
+USED INCORRECT QUOTATION MARKS FOR PLACEHOLDERS
+add img??
+
+
+
+
 
 ### Features Left to Implement
 
