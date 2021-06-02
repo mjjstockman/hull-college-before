@@ -83,4 +83,24 @@ h2 {
     float: left;
 }
 
+/*  form section */
+
+form {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+textarea {
+    vertical-align: top;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+
+
 
