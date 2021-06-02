@@ -97,10 +97,16 @@ textarea {
     vertical-align: top;
 }
 
-.center {
-    margin: 0 auto;
+/* footer */
+
+#social-networks {
+    text-align: center;
 }
 
+#social-networks > li {
+    display: inline;
+}
 
-
-
+#social-networks li + li {
+    margin-left: 10%;
+}
