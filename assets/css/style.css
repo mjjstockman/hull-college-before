@@ -10,6 +10,7 @@
 img {
     width: 100%;
     height: auto;
+    /* display: block; */
 }
 
 body {
@@ -79,12 +80,14 @@ h2 {
 
 /* about section */
 
-#hero {
-    clear: both;
+
+
+#hero img {
+    display: block;
 }
 
 #about-section {
-    background-color: #FFD670;
+    /* background-color: #FFD670; */
 }
 
 #course-section {
