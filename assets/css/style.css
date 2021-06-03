@@ -10,7 +10,6 @@
 img {
     width: 100%;
     height: auto;
-    /* display: block; */
 }
 
 body {
@@ -79,8 +78,6 @@ h2 {
 }
 
 /* about section */
-
-
 
 #hero img {
     display: block;

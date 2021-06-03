@@ -164,6 +164,8 @@ https://www.freelogodesign.org/
 
 https://www.educative.io/edpresso/how-to-change-a-git-commit-message-after-a-push   ADD THIS TO BUGS AS WELL? CHANGED COMMINT MESSAGE AS NOT STARTING WITH A CAPITAL
 
+https://www.remove.bg/
+
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
@@ -171,13 +173,23 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
+
+
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
+https://www.remove.bg/
+
 ### Media
 
+<!-- ///////////////////////// ME  ///////////////////////// -->
+
 https://stock.adobe.com/
+
+https://www.freevector.com/reward-icons-vector-21370#
+
+<!-- ///////////////////////// NOT ME  ///////////////////////// -->
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
