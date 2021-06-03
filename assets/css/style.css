@@ -19,6 +19,18 @@ body {
 
 /* headings and logo */
 
+header {
+    height: 110px;
+    padding: 0 2em;
+    background-color: #FFD670;
+}
+
+header img {
+    vertical-align: middle;
+    height: 100px;
+    width: auto;
+}
+
 h1,
 h2 {
     font-family: 'Open Sans', serif;
@@ -28,13 +40,13 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 200%;
     letter-spacing: 0.1em;
 }
 
 #logo,
 #menu {
-    line-height: 75px;
+    line-height: 100px;
 }
 
 /* nav */
@@ -67,13 +79,20 @@ h2 {
 
 /* about section */
 
+#hero {
+    clear: both;
+}
+
+#about-section {
+    background-color: #FFD670;
+}
+
 #course-section {
     text-align: center;  
 }
 
 #course-section div {
     display: inline-block;
-    background-color: red;
     width: 20%;
 }
 
