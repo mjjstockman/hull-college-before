@@ -58,13 +58,13 @@ In addition, you may also use this section to discuss plans for additional featu
 ## Wireframes
 
 # Small
-<img src="wireframes/small.png">
+<img src="design-images/wireframe-small.png">
 
 # Medium
-<img src="wireframes/medium.png">
+<img src="design-images/wireframe-medium.png">
 
 # Large
-<img src="wireframes/large.png">
+<img src="design-images/wireframe-large.png">
 
 ## Colour Pallate
 
@@ -82,7 +82,7 @@ Typespiration.com was used to find complimenting Google Fonts pairings, with the
 Headings: Open Sans, with a fallback of Sans-serif. 
 Body: Crimson, with a fallback of TextSerif.
 
-ADD IMG?
+ADD IMG??
 
 ### Issues and Bugs
 TEXTAREA PLACEHOLDER TEXT NOT SHOWING
