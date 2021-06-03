@@ -87,10 +87,10 @@ Coolors.co was then used to find a complementray colour platette, with the follo
 
 
 ## Fonts
-Typespiration.com was used to find complimenting Google Fonts pairings, with the following decided upon:
+Typespiration.com was used to find complimenting Google Font pairings, with the following decided upon:
 
 Headings: Open Sans, with a fallback of Sans-serif. 
-Body: Crimson, with a fallback of TextSerif.
+Body: Crimson, with a fallback of Serif.
 
 ADD IMG??
 
@@ -153,6 +153,8 @@ https://smallbiztrends.com/2014/06/psychology-of-colors.html
 https://coolors.co/
 
 https://typespiration.com/design/the-buried-city/
+
+https://www.freelogodesign.org/
 
 https://www.educative.io/edpresso/how-to-change-a-git-commit-message-after-a-push   ADD THIS TO BUGS AS WELL? CHANGED COMMINT MESSAGE AS NOT STARTING WITH A CAPITAL
 
