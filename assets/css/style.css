@@ -87,11 +87,11 @@ h2 {
     /* background-color: #FFD670; */
 }
 
-#course-section {
+#courses-section {
     text-align: center;  
 }
 
-#course-section div {
+#courses-section div {
     display: inline-block;
     width: 20%;
 }
