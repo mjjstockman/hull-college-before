@@ -58,6 +58,7 @@ In addition, you may also use this section to discuss plans for additional featu
 ## Wireframes
 
 # Small
+<<<<<<< HEAD
 <img src="design-images/wireframe-small.png">
 
 # Medium
@@ -65,6 +66,15 @@ In addition, you may also use this section to discuss plans for additional featu
 
 # Large
 <img src="design-images/wireframe-large.png">
+=======
+<img src="design-images/wireframe/small.png">
+
+# Medium
+<img src="design-images/wireframe/medium.png">
+
+# Large
+<img src="design-images/wireframe/large.png">
+>>>>>>> 784635ef5b11571cb3b102e4dd5c5b8aac69ca39
 
 ## Colour Pallate
 
