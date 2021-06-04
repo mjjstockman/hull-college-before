@@ -16,6 +16,12 @@ As a potential student, I want to see some general information about the college
 
 As a potential student, I want to be able to contact the college so that I can ask any questions I have about the college.
 
+ADD ACCEPTANCE CRITERIA'S?? WATCH https://us02web.zoom.us/rec/play/9FIKllHX2ZiQNFRhYPn_hBh_ZeA8964ZvIDLnhpKGAf1NLVc3_hBJ6zSL8Hv5Hx7ALnPtDmbg8CmFAs.YVsZ9LR_uI7OjEwH
+
+GIVE HAPPY PATH (when user does as expected), and SAD PATH (if put in incorecct info etc and user gets alerted)
+
+TECHNICAL IMPLEMENTATION (how will implement feature, eg, a form will be added with x, x and x required, email must be email etc. user alerted if incoreect input)
+
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -126,6 +132,9 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+IF HAD TIME:
+If site got more involved features would have done:
+  unit testing, system testing and regression testing
 
 ### Validator Testing 
 

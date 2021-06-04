@@ -83,9 +83,32 @@ h2 {
     display: block;
 }
 
-#about-section {
-    /* background-color: #FFD670; */
+#about-awards {
+    text-align: center;
 }
+.about-info {
+    display: inline-block;
+    width: 18%;
+}
+
+.about-info img {
+    width: 50%;
+}
+
+#about-info {
+    height: 200px;
+    /* width: 50%; */
+    background-color: red;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#about-satisfaction {
+    clear: both;
+}
+
+/*  courses section */
+
 
 #courses-section {
     text-align: center;  
@@ -96,10 +119,7 @@ h2 {
     width: 20%;
 }
 
-.about-split {
-    width: 50%;
-    float: left;
-}
+
 
 /*  form section */
 
