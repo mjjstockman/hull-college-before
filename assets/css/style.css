@@ -14,6 +14,7 @@ img {
 
 body {
     font-family: 'Crimson Text', sans-serif;
+    font-size: 22px;
     color: #252627;
 }
 
@@ -34,8 +35,13 @@ header img {
 h1,
 h2 {
     font-family: 'Open Sans', serif;
+    font-size: 200%;
     color: #252627;
     letter-spacing: 0.1em;
+}
+
+h2 {
+    font-size: 150%;
 }
 
 #logo {
@@ -83,28 +89,30 @@ h2 {
     display: block;
 }
 
-#about-awards {
+#about-awards,
+#about-satisfaction {
     text-align: center;
 }
-.about-info {
+
+.award-info,
+.satisfaction-info {
     display: inline-block;
     width: 18%;
 }
 
-.about-info img {
-    width: 50%;
-}
 
-#about-info {
-    height: 200px;
-    /* width: 50%; */
-    background-color: red;
-    margin: 0 auto;
-    text-align: center;
+.award-info img,
+.satisfaction-info img {
+    width: 50%;
 }
 
 #about-satisfaction {
     clear: both;
+}
+
+.satisfaction-info > p:first-child {
+    font-size: 300%;
+    color: purple;
 }
 
 /*  courses section */
