@@ -34,6 +34,7 @@ header img {
 
 h1,
 h2 {
+    text-align: center;
     font-family: 'Open Sans', serif;
     font-size: 200%;
     color: #252627;
@@ -89,28 +90,48 @@ h2 {
     display: block;
 }
 
+#about-section {
+    background-color: #ff9770;
+    margin: 0 auto;
+    padding: 0 2em;
+}
+
+
 #about-awards,
 #about-satisfaction {
     text-align: center;
+    
 }
+
+
 
 .award-info,
 .satisfaction-info {
     display: inline-block;
-    width: 18%;
+    width: 20%;
+    height: 250px;
+    vertical-align: middle;
 }
 
 
 .award-info img,
 .satisfaction-info img {
     width: 50%;
+    height: 100px;
+    /* vertical-align: middle; */
+
 }
 
 #about-satisfaction {
     clear: both;
 }
 
+.satisfaction-info > p {
+    height: 100px;
+}
+
 .satisfaction-info > p:first-child {
+    /* height: 100px; */
     font-size: 300%;
     color: purple;
 }
