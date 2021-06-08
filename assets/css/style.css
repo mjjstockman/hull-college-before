@@ -22,7 +22,7 @@ body {
 
 header {
     height: 110px;
-    padding: 0 2em;
+    padding: 0 1.5em;
     background-color: #FFD670;
 }
 
@@ -39,16 +39,16 @@ h2 {
     font-size: 200%;
     color: #252627;
     letter-spacing: 0.1em;
+    text-transform: uppercase;
 }
 
 h2 {
     font-size: 150%;
+    text-transform: initial;
 }
 
 #logo {
     float: left;
-    font-size: 200%;
-    letter-spacing: 0.1em;
 }
 
 #logo,
@@ -56,12 +56,15 @@ h2 {
     line-height: 100px;
 }
 
+header img {
+    padding-right: 0.1em;
+}
+
 /* nav */
 
 #menu {
     float: right;
-    list-style: none;
-    font-size: 200%;
+    font-size: 170%;
 }
 
 #menu li {
@@ -70,7 +73,7 @@ h2 {
     letter-spacing: 0.1em;
 }
 
-#menu li+li {
+#menu li + li {
     margin-left: 2em;
 }
 
@@ -86,20 +89,39 @@ h2 {
 
 /* about section */
 
+section > h1 {
+    padding: 0.25em 0;
+}
 #hero img {
     display: block;
+    /* clear: both; */
 }
 
 #about-section {
     background-color: #ff9770;
-    margin: 0 auto;
-    padding: 0 2em;
+    /* margin: 0 auto; */
+    /* padding: 1em 2em; */
 }
 
+#award-title {
+    padding-bottom: 0.5em;
+}
+
+#about-info,
+form {
+    /* padding-bottom: 1em; */
+    width: 90%;
+    margin: 0 auto;
+}
+
+#award-title {
+    padding-top: 0.5em;
+}
 
 #about-awards,
 #about-satisfaction {
     text-align: center;
+    /* padding-bottom: 20px; */
 }
 
 .award-info,
@@ -139,17 +161,21 @@ h2 {
 #courses-section div {
     display: inline-block;
     width: 20%;
+    padding-bottom: 1em;
 }
 
 #courses-section img {
     height: 200px;
 }
+
+#courses-section p {
+    font-size: 150%;
+}
+
 /*  form section */
 
 form {
     width: 80%;
-    margin: 0 auto;
-    padding: 1em;
     border: 2px solid #252627;
     text-align: center;
     border-radius: 25px;
