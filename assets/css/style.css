@@ -174,11 +174,17 @@ form {
 
 /*  form section */
 
+#form-section {
+    background-color: #ff70a6;
+    padding-bottom: 1em;
+}
+
 form {
     width: 80%;
     border: 2px solid #252627;
     text-align: center;
     border-radius: 25px;
+    background-color: white;
 }
 
 #form-name label:not(:first-child) {
@@ -187,6 +193,7 @@ form {
 
 input {
     border-bottom: 2px solid #252627;
+    /* border-radius: 10px; */
     padding-top: 2em;
 }
 
@@ -212,6 +219,11 @@ textarea {
 
 /* footer */
 
+footer {
+    background-color: #FFD670;
+    padding: 0.5em 0.5em;
+}
+
 #social-networks {
     text-align: center;
 }
@@ -222,4 +234,9 @@ textarea {
 
 #social-networks li + li {
     margin-left: 10%;
+}
+
+#social-networks i {
+    font-size: 200%;
+    color: #252627;
 }
