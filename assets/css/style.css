@@ -14,7 +14,7 @@ img {
 
 body {
     font-family: 'Crimson Text', sans-serif;
-    font-size: 22px;
+    font-size: 18px;
     color: #252627;
 }
 
@@ -24,6 +24,7 @@ header {
     height: 110px;
     padding: 0 1.5em;
     background-color: #FFD670;
+
 }
 
 header img {
@@ -74,7 +75,7 @@ header img {
 }
 
 #menu li + li {
-    margin-left: 2em;
+    margin-left: 1em;
 }
 
 #menu a {
@@ -99,8 +100,6 @@ section > h1 {
 
 #about-section {
     background-color: #ff9770;
-    /* margin: 0 auto; */
-    /* padding: 1em 2em; */
 }
 
 #award-title {
@@ -109,7 +108,6 @@ section > h1 {
 
 #about-info,
 form {
-    /* padding-bottom: 1em; */
     width: 90%;
     margin: 0 auto;
 }
@@ -121,7 +119,6 @@ form {
 #about-awards,
 #about-satisfaction {
     text-align: center;
-    /* padding-bottom: 20px; */
 }
 
 .award-info,
@@ -193,7 +190,6 @@ form {
 
 input {
     border-bottom: 2px solid #252627;
-    /* border-radius: 10px; */
     padding-top: 2em;
 }
 
@@ -240,3 +236,38 @@ footer {
     font-size: 200%;
     color: #252627;
 }
+
+/* media queries */
+
+/* largest screens */
+@media screen and (max-width: 1000px) {
+    header {
+        height: 125px;
+    }
+
+    header img {
+        /* vertical-align: middle; */
+        height: 50px;
+        width: auto;
+    }
+    
+    
+    #logo {
+        float: none;
+        margin: 0 auto; 
+        clear: both;
+        height: 60px;
+    }
+    
+    #menu {
+        float: none;
+        width: 100%;
+        line-height: unset;
+    }
+
+    nav li {
+        text-align: center;
+        width: 30%;
+    }
+}
+
