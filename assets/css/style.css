@@ -239,7 +239,7 @@ footer {
 
 /* media queries */
 
-/* largest screens */
+
 @media screen and (max-width: 1000px) {
     header {
         height: 125px;
