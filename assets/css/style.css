@@ -24,7 +24,10 @@ header {
     height: 110px;
     padding: 0 1.5em;
     background-color: #FFD670;
+}
 
+header a {
+    text-decoration: none;
 }
 
 header img {
@@ -241,16 +244,10 @@ footer {
 
 /* largest screens */
 @media screen and (max-width: 1000px) {
-    header {
-        height: 125px;
-    }
-
     header img {
-        /* vertical-align: middle; */
         height: 50px;
         width: auto;
     }
-    
     
     #logo {
         float: none;
@@ -265,9 +262,33 @@ footer {
         line-height: unset;
     }
 
+    nav {
+        padding-top: 10px;
+    }
+
     nav li {
         text-align: center;
         width: 30%;
+        font-size: 75%;
     }
+
+    #menu li + li {
+        margin: 0;
+    }
+
+    /* .award-info,
+    .satisfaction-info {
+        width: 40%;
+    } */
 }
 
+@media screen and (max-width: 715px) {
+    header {
+        height: 175px;
+    }
+    
+    nav li {
+        width: 100%;
+        padding: 0;
+    }
+}
