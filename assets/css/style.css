@@ -275,11 +275,6 @@ footer {
     #menu li + li {
         margin: 0;
     }
-
-    /* .award-info,
-    .satisfaction-info {
-        width: 40%;
-    } */
 }
 
 @media screen and (max-width: 715px) {
@@ -290,5 +285,16 @@ footer {
     nav li {
         width: 100%;
         padding: 0;
+    }
+
+    .award-info,
+    .satisfaction-info {
+        width: 40%;
+    }
+
+    .course {
+        max-width: 100%;
+    max-height: 100%;
+    width: 50%;
     }
 }
