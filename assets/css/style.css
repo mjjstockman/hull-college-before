@@ -242,7 +242,7 @@ footer {
 
 /* media queries */
 
-/* largest screens */
+
 @media screen and (max-width: 1000px) {
     header img {
         height: 50px;
